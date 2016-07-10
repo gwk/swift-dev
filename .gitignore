@@ -1,0 +1,15 @@
+_build/
+_misc/
+clang/
+cmark/
+llbuild/
+lldb/
+llvm/
+compiler-rt/
+swift/
+swift-corelibs-foundation/
+swift-corelibs-libdispatch/
+swift-corelibs-xctest/
+swift-integration-tests/
+swift-xcode-playground-support/
+swiftpm/
