@@ -1,5 +1,8 @@
+.DS_Store
+
 _build/
 _misc/
+
 clang/
 cmark/
 llbuild/
@@ -13,3 +16,4 @@ swift-corelibs-xctest/
 swift-integration-tests/
 swift-xcode-playground-support/
 swiftpm/
+ninja/
